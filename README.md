@@ -18,7 +18,7 @@ This project demonstrates the implementation of a Library Management System usin
 ## Project Structure
 
 ### Database Setup
-![ERD]("C:\Users\KISHAN\OneDrive\Desktop\SQL project\Library Management\Library_ERD.png")
+![ERD](https://github.com/guptaghanshyam/Library-System-Management-SQL-Project/blob/main/Library_ERD.png)
 
 
 ### ✅ Task 1: Create a New Book Record
